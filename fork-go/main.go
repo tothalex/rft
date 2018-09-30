@@ -1,9 +1,10 @@
 package main
 
 import (
-	"fork-go/handlers"
 	"log"
 	"net/http"
+
+	"./handlers"
 )
 
 func main() {

@@ -1,10 +1,11 @@
 package handlers
 
 import (
-	"fork-go/socketPool"
-	"fork-go/types"
 	"log"
 	"net/http"
+
+	"../socketPool"
+	"../types"
 
 	"github.com/gorilla/websocket"
 )

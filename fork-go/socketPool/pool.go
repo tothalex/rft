@@ -1,8 +1,9 @@
 package socketPool
 
 import (
-	"fork-go/types"
 	"log"
+
+	"../types"
 
 	"github.com/gorilla/websocket"
 )
